@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     {
       "id": "daily",
@@ -63,10 +63,52 @@
           "id": "suprabhat",
           "label": "सुप्रभात",
           "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/wishes/suprabhat.webp"
+        },
+        {
+          "id": "janam_din",
+          "label": "जन्मदिनक शुभकामना",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/wishes/janam_din.webp"
         }
       ]
     },
     {
       "id": "phakra",
       "title": "फकरा",
-      "title_en": "
+      "title_en": "Phakra",
+      "icon": "💬",
+      "stickers": [
+        {
+          "id": "phakra_1",
+          "label": "फकरा 1",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/phakra/phakra_1.webp"
+        }
+      ]
+    },
+    {
+      "id": "sanskriti",
+      "title": "संस्कृति",
+      "title_en": "Culture",
+      "icon": "🌿",
+      "stickers": [
+        {
+          "id": "paan",
+          "label": "मिथिलाक पान",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/sanskriti/paan.webp"
+        }
+      ]
+    },
+    {
+      "id": "mithila_art",
+      "title": "मिथिला आर्ट",
+      "title_en": "Mithila Art",
+      "icon": "🎨",
+      "stickers": [
+        {
+          "id": "kohbar",
+          "label": "कोहबर",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/mithila_art/kohbar.webp"
+        }
+      ]
+    }
+  ]
+}
