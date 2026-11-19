@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "daily",
+      "title": "दैनिक",
+      "title_en": "Daily",
+      "icon": "🙏",
+      "stickers": [
+        {
+          "id": "pranam",
+          "label": "प्रणाम",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/daily/pranam.webp"
+        }
+      ]
+    },
+    {
+      "id": "festival",
+      "title": "त्योहार",
+      "title_en": "Festival",
+      "icon": "🪔",
+      "stickers": [
+        {
+          "id": "chhath",
+          "label": "छठि",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/festival/chhath.webp"
+        }
+      ]
+    },
+    {
+      "id": "bhakti",
+      "title": "भक्ति",
+      "title_en": "Bhakti",
+      "icon": "🔱",
+      "stickers": [
+        {
+          "id": "mahadev",
+          "label": "हर हर महादेव",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/bhakti/mahadev.webp"
+        }
+      ]
+    },
+    {
+      "id": "funny",
+      "title": "मज़ाक",
+      "title_en": "Funny",
+      "icon": "😂",
+      "stickers": [
+        {
+          "id": "funny_1",
+          "label": "बढ़िया",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/funny/funny_1.webp"
+        }
+      ]
+    },
+    {
+      "id": "wishes",
+      "title": "शुभकामना",
+      "title_en": "Wishes",
+      "icon": "🎉",
+      "stickers": [
+        {
+          "id": "suprabhat",
+          "label": "सुप्रभात",
+          "url": "https://mithiladharohar.github.io/Maithilikey-stickers/stickers/wishes/suprabhat.webp"
+        }
+      ]
+    },
+    {
+      "id": "phakra",
+      "title": "फकरा",
+      "title_en": "
